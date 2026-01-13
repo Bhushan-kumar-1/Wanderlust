@@ -136,4 +136,6 @@ Bhushan Kumar
 🔗 LinkedIn: https://www.linkedin.com/in/bhushan-kumar-77072b227
 
 📸 Screenshots
-![image alt]([image_url](https://github.com/Bhushan-kumar-1/Airbnb/blob/13d99c7a326bf7cd94899660dd11b8173cb1e478/Screenshot%202026-01-13%20124540.png))
+
+
+![image alt](https://github.com/Bhushan-kumar-1/Airbnb/blob/13d99c7a326bf7cd94899660dd11b8173cb1e478/Screenshot%202026-01-13%20124540.png)
