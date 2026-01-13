@@ -89,7 +89,7 @@ Node.js & npm installed
 MongoDB installed and running
 
 🔽 Clone the Repository
-git clone https://github.com/your-username/airbnb-clone.git
+git clone https://github.com/Bhushan-kumar-1/Airbnb
 cd airbnb-clone
 
 🔧 Backend Setup
@@ -100,7 +100,7 @@ npm start
 
 Server will run on:
 
-http://localhost:3000
+http://localhost:8080
 
 🎨 Frontend Setup
 cd frontend
@@ -110,31 +110,11 @@ npm start
 
 Application will run on:
 
-http://localhost:5173
-
 🌐 Live Demo
 
 🔗 Live Application: https://your-live-link.onrender.com
 
 🔗 GitHub Repository: https://github.com/your-username/airbnb-clone
-
-📂 Project Structure
-airbnb-clone/
-│
-├── backend/
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   ├── middleware/
-│   └── app.js
-│
-├── frontend/
-│   ├── components/
-│   ├── pages/
-│   ├── context/
-│   └── App.jsx
-│
-└── README.md
 
 ✅ Future Enhancements
 
@@ -153,7 +133,7 @@ Wishlist / favorites feature
 Bhushan Kumar
 🔗 GitHub: https://github.com/Bhushan-kumar-1
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn: https://www.linkedin.com/in/bhushan-kumar-77072b227
 
 📸 Screenshots
 ![Screenshot 2025-03-05 005343](https://github.com/user-attachments/assets/40e60b03-80e5-4b97-a7d9-e293ddff934f)
