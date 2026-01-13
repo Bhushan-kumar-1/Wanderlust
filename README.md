@@ -144,3 +144,4 @@ Bhushan Kumar
 ![image alt](https://github.com/Bhushan-kumar-1/Airbnb/blob/82a01d405a93867055796728e30b88aff69b0de8/Screenshot%202026-01-13%20124720.png)
 ![image alt](https://github.com/Bhushan-kumar-1/Airbnb/blob/0c71ad1dd02841326064a42109377a94422649f3/Screenshot%202026-01-13%20124846.png)
 ![image alt](https://github.com/Bhushan-kumar-1/Airbnb/blob/2ba2a20545d5fb14ee882839d70c3e5852084543/Screenshot%202026-01-13%20124950.png)
+![image alt](https://github.com/Bhushan-kumar-1/Airbnb/blob/42f6af9f6f282877f05c59f0b63a2d3ddf39ba05/Screenshot%202026-01-13%20125026.png)
