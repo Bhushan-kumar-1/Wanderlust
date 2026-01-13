@@ -86,7 +86,7 @@ Application will run on:
 
 🌐 Live Demo
 
-🔗 GitHub Repository: https://github.com/your-username/airbnb-clone
+🔗 GitHub Repository: [https://github.com/your-username/airbnb-clone](https://github.com/Bhushan-kumar-1/Airbnb)
 
 ✅ Future Enhancements
 
