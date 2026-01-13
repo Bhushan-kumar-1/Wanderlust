@@ -68,22 +68,10 @@ MongoDB
 Mongoose
 
 Authentication:
-
 JWT (JSON Web Token)
 
 bcrypt for password hashing
-
-Other Tools:
-
-Cloudinary (Image Uploads)
-
 Express Validator
-
-MVC Architecture
-
-⚙️ Installation & Setup
-Prerequisites
-
 Node.js & npm installed
 
 MongoDB installed and running
@@ -92,27 +80,11 @@ MongoDB installed and running
 git clone https://github.com/Bhushan-kumar-1/Airbnb
 cd airbnb-clone
 
-🔧 Backend Setup
-cd backend
-npm install
-npm start
-
-
-Server will run on:
-
 http://localhost:8080
-
-🎨 Frontend Setup
-cd frontend
-npm install
-npm start
-
 
 Application will run on:
 
 🌐 Live Demo
-
-🔗 Live Application: https://your-live-link.onrender.com
 
 🔗 GitHub Repository: https://github.com/your-username/airbnb-clone
 
