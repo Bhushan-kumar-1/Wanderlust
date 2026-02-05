@@ -1,49 +1,49 @@
-🏡 Airbnb Clone – MERN Stack Web Application
+🏡 Airbnb – MERN Stack Web Application
 📌 Project Overview
 
 The Airbnb Clone is a full-stack web application built using the MERN stack that allows users to list, explore, and book rental properties. The platform supports property owners and guests with secure authentication, property management, reviews, and a responsive user interface similar to Airbnb.
 
 This project focuses on real-world backend architecture, authentication, database relationships, and dynamic UI rendering.
 
-🚀 Features
+## Features
 
-User Authentication & Authorization
+### Admin Inventory
+- **GET** `/admin/inventory/rooms/{roomId}` - Retrieve inventory of a room
+- **PATCH** `/admin/inventory/rooms/{roomId}` - Update inventory for a room
+- **PUT** `/admin/hotels/{hotelId}/rooms/{roomId}` - Update a room
+- 
+### Hotel Browse
+- **GET** `/hotels/{hotelId}/info` - Get hotel details
+- **GET** `/hotels/search` - Search for hotels
 
-Secure sign up and login using JWT
+### Hotel Management
+- **DELETE** `/admin/hotels/{hotelId}` - Delete a hotel
+- **GET** `/admin/hotels/{hotelId}` - Get hotel by ID
+- **GET** `/admin/hotels` - Get all admin hotels
+- **PATCH** `/admin/hotels/{hotelId}/activate` - Activate a hotel
+- **POST** `/admin/hotels` - Create a hotel
+- **PUT** `/admin/hotels/{hotelId}` - Update hotel details
 
-Role-based access (Owner / Guest)
+### Room Admin Management
+- **DELETE** `/admin/hotels/{hotelId}/rooms/{roomId}` - Delete a room
+- **GET** `/admin/hotels/{hotelId}/rooms/{roomId}` - Get room details
+- **GET** `/admin/hotels/{hotelId}/rooms` - Retrieve all rooms
+- **POST** `/admin/hotels/{hotelId}/rooms` - Create a room
+- **PUT** `/admin/hotels/{hotelId}/rooms/{roomId}` - Update a room
 
-Property Listings Management
+### User Authentication
+- **POST** `/auth/signup` - User signup
+- **POST** `/auth/refresh` - Refresh access token
+- **POST** `/auth/login` - User login
 
-Create, update, and delete property listings
-
-Upload property images
-
-Browse & Explore Listings
-
-View all available properties
-
-Detailed listing pages with images and descriptions
-
-Reviews & Ratings
-
-Users can add and delete reviews
-
-Review-author relationship handling
-
-Search & Filtering
-
-Search properties by title or location
-
-Responsive UI
-
-Mobile-friendly design for all screen sizes
-
-Secure Backend
-
-RESTful APIs
-
-Protected routes and error handling
+### User Profile
+- **DELETE** `/users/guests/{guestId}` - Remove a guest
+- **GET** `/users/guests` - Get my guests
+- **GET** `/users/profile` - Get my profile
+- **GET** `/users/myBookings` - Get my bookings
+- **PATCH** `/users/profile` - Update my profile
+- **POST** `/users/guests` - Add a guest
+- **PUT** `/users/guests/{guestId}` - Update a guest
 
 🛠️ Tech Stack
 
@@ -88,17 +88,6 @@ Application will run on:
 
 🔗 GitHub Repository: [https://github.com/your-username/airbnb-clone](https://github.com/Bhushan-kumar-1/Airbnb)
 
-✅ Future Enhancements
-
-Online payment integration (Stripe / Razorpay)
-
-Booking date & availability system
-
-Map integration for property locations
-
-Admin dashboard
-
-Wishlist / favorites feature
 
 👨‍💻 Author
 
