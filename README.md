@@ -1,4 +1,6 @@
 🏡 Airbnb – MERN Stack Web Application
+ Project is LIVE on this LINK: https://wanderlust1-o916.onrender.com
+
 📌 Project Overview
 
 The Airbnb Clone is a full-stack web application built using the MERN stack that allows users to list, explore, and book rental properties. The platform supports property owners and guests with secure authentication, property management, reviews, and a responsive user interface similar to Airbnb.
@@ -106,4 +108,5 @@ Bhushan Kumar
 ![image alt](https://github.com/Bhushan-kumar-1/Wanderlust/blob/91f4921118482bb7f8f1e0d07d8a789a48c553c3/Screenshot%202026-02-22%20120217.png)
 ![image alt](https://github.com/Bhushan-kumar-1/Wanderlust/blob/381453ca77e0ab780288f38c23962cafef7902eb/Screenshot%202026-02-22%20121336.png)
 ![image alt](https://github.com/Bhushan-kumar-1/Wanderlust/blob/dec381314e1a403c513d7bc6c055a8a505caee44/Screenshot%202026-02-22%20121514.png)
+![image alt](https://github.com/Bhushan-kumar-1/Wanderlust/blob/ebc665cb61c07bde33d3c3129d0ecd1f6f00458c/Screenshot%202026-02-22%20121603.png)
 
