@@ -86,7 +86,8 @@ Application will run on:
 
 🌐 Live Demo
 
-🔗 GitHub Repository: [https://github.com/your-username/airbnb-clone](https://github.com/Bhushan-kumar-1/Airbnb)
+🔗 LIVE LINK: https://wanderlust1-o916.onrender.com
+
 
 
 👨‍💻 Author
