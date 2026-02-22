@@ -98,4 +98,4 @@ Bhushan Kumar
 🔗 LinkedIn: https://www.linkedin.com/in/bhushan-kumar-77072b227
 
 📸 Screenshots
-![image alt]([image_url](https://github.com/Bhushan-kumar-1/Wanderlust/blob/a608e4b6c913042ff675c5084d395a822a261bbc/Screenshot%202026-02-22%20115929.png))
+![image alt](https://github.com/Bhushan-kumar-1/Wanderlust/blob/a608e4b6c913042ff675c5084d395a822a261bbc/Screenshot%202026-02-22%20115929.png)
