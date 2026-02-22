@@ -105,4 +105,5 @@ Bhushan Kumar
 ![image alt](https://github.com/Bhushan-kumar-1/Wanderlust/blob/2140d7c4fef67e92cfcb4a911c18d8a431da9a2e/Screenshot%202026-02-22%20120147.png)
 ![image alt](https://github.com/Bhushan-kumar-1/Wanderlust/blob/91f4921118482bb7f8f1e0d07d8a789a48c553c3/Screenshot%202026-02-22%20120217.png)
 ![image alt](https://github.com/Bhushan-kumar-1/Wanderlust/blob/381453ca77e0ab780288f38c23962cafef7902eb/Screenshot%202026-02-22%20121336.png)
+![image alt](https://github.com/Bhushan-kumar-1/Wanderlust/blob/dec381314e1a403c513d7bc6c055a8a505caee44/Screenshot%202026-02-22%20121514.png)
 
