@@ -1,4 +1,4 @@
-🏡 Airbnb – MERN Stack Web Application
+🏡  Wanderlust – MERN Stack Web Application
  Project is LIVE on this LINK: https://wanderlust1-o916.onrender.com
 
 📌 Project Overview
