@@ -3,7 +3,7 @@
 
 📌 Project Overview
 
-The Airbnb Clone is a full-stack web application built using the MERN stack that allows users to list, explore, and book rental properties. The platform supports property owners and guests with secure authentication, property management, reviews, and a responsive user interface similar to Airbnb.
+The wanderlust project is a full-stack web application built using the MERN stack that allows users to list, explore, and book rental properties. The platform supports property owners and guests with secure authentication, property management, reviews, and a responsive user interface similar to Airbnb.
 
 This project focuses on real-world backend architecture, authentication, database relationships, and dynamic UI rendering.
 
